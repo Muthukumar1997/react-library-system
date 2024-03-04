@@ -1,0 +1,45 @@
+{
+  "registration": [
+    {
+      "id": 1,
+      "firstName": "akash",
+      "email": "akash@gmail.com",
+      "password": "12345"
+    },
+    {
+      "firstName": "suresh",
+      "email": "suresh@gmail.com",
+      "password": "12345",
+      "id": 2
+    },
+    {
+      "firstName": "MUTHUKUMAR",
+      "email": "mkmech08@gmail.com",
+      "password": "959766",
+      "id": 3
+    }
+  ],
+  "book": [
+    {
+      "bookName": "potter",
+      "price": 6000,
+      "available": false,
+      "email": "suresh@gmail.com",
+      "id": 2
+    },
+    {
+      "bookName": "harrt",
+      "price": "5000",
+      "available": true,
+      "email": "mkmech08@gmail.com",
+      "id": 4
+    },
+    {
+      "bookName": "react js",
+      "price": "100000",
+      "available": false,
+      "email": "mkmech08@gmail.com",
+      "id": 5
+    }
+  ]
+}

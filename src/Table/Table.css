@@ -1,0 +1,22 @@
+.btn-outline-success{
+    background-color: orange;
+    border: 0;
+}
+.header{
+       margin-top:20px;
+}
+.form-control {
+width: 86% !important;   
+}
+/* .btn-outline-success:hover{
+    background-color: orange;
+    border: 0;
+} */
+.fa-trash{
+  color:red;
+  font-size: 35px;
+}
+.fa-pencil-square-o{
+  color:blue;
+  font-size:35px;
+}
